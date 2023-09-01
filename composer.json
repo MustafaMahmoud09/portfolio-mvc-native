@@ -1,0 +1,17 @@
+{
+
+    "autoload": {
+           
+            "psr-4": {
+         
+                 "PORTFOLIO\\":"app"
+            
+            }
+    },
+    "require": {
+
+        "dcblogdev/pdo-wrapper": "^2.0",
+        "rakit/validation": "^1.4"
+
+    }
+}
